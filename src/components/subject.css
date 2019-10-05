@@ -1,0 +1,44 @@
+.wrapper{
+    padding-top: 30px
+}
+
+.shead{
+    border-bottom: 2px solid #F7F7F7;
+}
+
+.scard{
+    width: 18rem;
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    box-shadow: 5px 10px 8px #F7F7F7;
+}
+
+.sh3{
+    color: #8AAB1B;
+}
+
+.sp{
+    font-size: 13px;
+}
+
+.sbody{
+    padding-top: 15px;
+    color: #9A9A9A;
+    font-size: 14px;
+}
+
+.sbicon{
+    font-size: 18px;
+}
+
+.sfbtn{
+    background-color: #8AAB1B;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 30px;
+    padding: 10px;
+    border: none;
+}

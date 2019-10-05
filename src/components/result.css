@@ -1,0 +1,33 @@
+.top{
+    border: 1px solid lightblue;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+.solution{
+    border: 1px solid lightblue;
+    background-color: white;
+    text-align: center;
+    font-weight: 500;
+    padding: 15px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+.options tr td{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 17px;
+    padding: 3px;
+}
+
+.solution p {
+    text-align: left;
+    color: #8AAB1B;
+}
+
